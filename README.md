@@ -5,6 +5,8 @@ Portfolio of the assigments from the ITCILO M&amp;E Certification Programme.
 
 All the assignments have been completed referring to data from real-world case studies. 
 
+## Content of the course:
+
 ## Module 1 – Introduction to Monitoring and Evaluation
 
 * Aid effectiveness agenda
